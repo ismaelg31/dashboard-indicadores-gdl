@@ -32,7 +32,7 @@ Reporte en **Power BI Desktop (.pbix)** para visualizar y analizar indicadores d
 
 ## Guía rápida (cómo usar)
 1. Instala **Power BI Desktop**.
-2. Abre el archivo: `pbix/legadoprueba.pbix`
+2. Abre el archivo: pbix/comp-social-jalisco.pbix
 3. Si al refrescar pide credenciales:
    - Power BI Desktop → **Transform data** → **Data source settings**
    - Actualiza rutas/credenciales y ejecuta **Refresh**
